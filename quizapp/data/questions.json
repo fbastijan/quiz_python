@@ -1,0 +1,24 @@
+{
+    "questions": [
+        {
+            "category": "Opća kultura",
+            "question": "Koji je glavni grad Francuske?",
+            "options": [
+                "Pariz",
+                "Berlin",
+                "Rim"
+            ],
+            "answer": "Pariz"
+        },
+        {
+            "category": "asafsagvda",
+            "question": "adgadgasdfs",
+            "options": [
+                "adgdagadgad",
+                "dagadgadg",
+                "adgadgadg"
+            ],
+            "answer": "dagadgadg"
+        }
+    ]
+}
